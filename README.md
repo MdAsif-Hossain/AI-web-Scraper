@@ -9,7 +9,7 @@ This is useful for turning messy webpages (like listings pages) into structured 
 
 ## Demo Output
 
-![Example output table](Screenshot 2026-01-17 224134.png)
+![Example output table](Screenshot%202026-01-17%20224134.png)
 
 ## How it works
 
